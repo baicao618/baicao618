@@ -11,8 +11,8 @@
       "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/xpath/subaibai.json"
     },
 		    {
-      "key": "腾源",
-      "name": "腾源",
+      "key": "腾讯(官源)",
+      "name": "腾讯(官源)",
       "type": 0,
       "api": "http://www.zycaiji.net:7788/api.php/provide/vod/from/qq/at/xml/",
       "playUrl": "https://jx.xmflv.vip/?url=",
@@ -22,8 +22,8 @@
     },
      
 	 		    {
-      "key": "优源",
-      "name": "优源",
+      "key": "优酷(官源)",
+      "name": "优酷(官源)",
       "type": 0,
       "api": "http://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/",
       "playUrl": "https://jx.xmflv.vip/?url=",
@@ -32,8 +32,8 @@
       "filterable": 0
     },
 			    {
-      "key": "爱源",
-      "name": "爱源",
+      "key": "爱奇艺(官源)",
+      "name": "爱奇艺(官源)",
       "type": 0,
       "api": "http://www.zycaiji.net:7788/api.php/provide/vod/from/qiyi/at/xml/",
       "playUrl": "https://jx.xmflv.vip/?url=",
